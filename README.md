@@ -1,6 +1,6 @@
 # HyperGraph Demo Notebooks
 
-Interactive notebooks demonstrating [HyperGraph](https://github.com/gilad-rubin/hypergraph) — a Python framework for building AI/ML workflows using explicit graphs.
+Interactive notebooks demonstrating [HyperGraph](https://github.com/gilad-rubin/hypergraph) — a unified, hierarchical, and modular framework for Python workflow orchestration. DAG pipelines, agentic workflows, and everything in between.
 
 ## Notebooks
 
